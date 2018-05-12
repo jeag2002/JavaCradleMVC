@@ -1,0 +1,17 @@
+https://hop2croft.wordpress.com/2011/09/10/ejemplo-basico-de-spring-mvc-con-maven/
+https://www.programcreek.com/2014/02/spring-mvc-helloworld-using-maven-in-eclipse/
+
+https://dzone.com/articles/do-not-delete-how-create
+https://examples.javacodegeeks.com/enterprise-java/spring/mvc/spring-mvc-crud-using-mongodb-tutorial/
+
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/#run-mongodb-community-edition
+https://www.callicoder.com/java-8-completablefuture-tutorial/
+
+
+https://www.javacodegeeks.com/2016/06/java-8-completablefuture-vs-parallel-stream.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+JavaCodeGeeks+%28Java+Code+Geeks%29
+http://shengwangi.blogspot.com.es/2015/09/asynchronous-spring-mvc-hello-world.html
+
+http://callistaenterprise.se/blogg/teknik/2014/06/23/testing-non-blocking-rest-services-with-spring-mvc-and-spring-boot/
+https://dzone.com/articles/non-blocking-rest-services-with-spring
+
+https://memorynotfound.com/unit-test-spring-mvc-rest-service-junit-mockito/
