@@ -30,6 +30,12 @@ public class JSoupSearchingEngine implements IJSoupSearchingEngine{
 	
 	private static final ExecutorService ex = Executors.newCachedThreadPool();
 	
+	@Autowired
+	public JSoupSearchingEngine(IMongoDao _mongoDao){
+		mongoDao = _mongoDao;
+	}
+
+	
 	/**
 	 * Get all topicList
 	 */
